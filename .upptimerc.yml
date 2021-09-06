@@ -7,9 +7,6 @@ sites:
     url: https://www.onolune.me
   - name: Analytics
     url: https://ovra.vercel.app
-  - name: Database (nyc)
-    url: $DB_NYC
-    __dangerous__body_down: "refused to connect"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
