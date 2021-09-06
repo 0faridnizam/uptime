@@ -22,7 +22,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - tilte: Contact me
+    - title: Contact me
       href: mailto:me@onolune.me
 
 # Upptime also supports notifications, assigning issues, and more
