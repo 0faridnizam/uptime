@@ -5,11 +5,13 @@ repo: uptime # The name of this repository
 sites:
   - name: Personal Website
     url: https://www.onolune.me
-  - name: Analytics
+  - name: Website Analytics
     url: https://ovra.vercel.app
   - name: Mail Server
     check: "tcp-ping"
     url: $UPTIME_MAIL_SV
+  - name: Momentum Clone
+    url: https://momentum-clone.pages.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
