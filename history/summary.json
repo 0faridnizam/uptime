@@ -22,19 +22,19 @@
     "url": "https://slowy.onolune.my.id",
     "icon": "https://favicons.githubusercontent.com/slowy.onolune.my.id",
     "slug": "analytics",
-    "status": "down",
-    "uptime": "4.55%",
-    "uptimeDay": "4.55%",
-    "uptimeWeek": "4.55%",
-    "uptimeMonth": "4.55%",
-    "uptimeYear": "4.55%",
-    "time": 154,
-    "timeDay": 125,
-    "timeWeek": 125,
-    "timeMonth": 138,
-    "timeYear": 154,
+    "status": "up",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
+    "time": 165,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 161,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2021-10-09": 0
+      "2021-10-09": 21
     }
   },
   {
