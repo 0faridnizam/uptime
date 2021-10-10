@@ -10,6 +10,9 @@ sites:
   - name: Mail Server
     check: "tcp-ping"
     url: $UPTIME_MAIL_SV
+  - name: Slowy Workers
+    check: "tcp-ping"
+    url: $CF_WORKERS_SLOWY
   - name: Momentum Clone
     url: https://momentum-clone.pages.dev
   - name: Bellshade
