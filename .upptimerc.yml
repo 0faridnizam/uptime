@@ -6,7 +6,7 @@ sites:
   - name: Personal Website
     url: https://www.onolune.me
   - name: Analytics
-    url: https://slowy.onolune.my.id
+    url: $UPTIME_ANALYTICS
   - name: Mail Server
     check: "tcp-ping"
     url: $UPTIME_MAIL_SV
