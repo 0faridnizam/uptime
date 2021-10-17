@@ -1,5 +1,5 @@
 # Change these first
-owner: yuimatcha # Your GitHub organization or username, where this repository lives
+owner: faridnizam # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
@@ -21,7 +21,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime Monitor
   introTitle: "Welcome To Status Page"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -29,8 +29,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Contact me
-      href: mailto:me@onolune.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
