@@ -12,6 +12,8 @@ sites:
     url: $UPTIME_MAIL_SV
   - name: Momentum Clone
     url: https://momentum-clone.pages.dev
+  - name: Cek Domian
+    url: https://cekdomain.js.org
   - name: Bellshade
     url: https://bellshade.org
 
