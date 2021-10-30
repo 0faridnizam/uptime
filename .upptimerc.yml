@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Personal Website
     url: https://www.onolune.me
+    icon: https://www.onolune.me/favicon.ico
   - name: Analytics
     url: $UPTIME_ANALYTICS
     icon: https://i.imgur.com/NnB33FF.png
