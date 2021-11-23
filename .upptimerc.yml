@@ -22,8 +22,6 @@ sites:
   - name: Bellshade.org
     url: https://bellshade.org
     icon: https://bellshade.org/favicon.ico
-  - name: NomCDN
-    url: https://nomcdn.herokuapp.com
   
 
 status-website:
