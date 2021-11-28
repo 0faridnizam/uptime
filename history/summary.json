@@ -96,7 +96,7 @@
     "url": "https://bellshade.org",
     "icon": "https://bellshade.org/favicon.ico",
     "slug": "bellshade-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -107,6 +107,8 @@
     "timeWeek": 927,
     "timeMonth": 867,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-28": 0
+    }
   }
 ]
