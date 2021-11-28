@@ -96,19 +96,19 @@
     "url": "https://bellshade.org",
     "icon": "https://bellshade.org/favicon.ico",
     "slug": "bellshade-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 992,
-    "timeWeek": 927,
-    "timeMonth": 867,
-    "timeYear": 869,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.72%",
+    "time": 1551,
+    "timeDay": 14904,
+    "timeWeek": 3716,
+    "timeMonth": 1602,
+    "timeYear": 1551,
     "dailyMinutesDown": {
-      "2021-11-28": 0
+      "2021-11-28": 133
     }
   }
 ]
