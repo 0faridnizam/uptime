@@ -22,11 +22,11 @@
     "url": "$UPTIME_ANALYTICS",
     "icon": "https://i.imgur.com/NnB33FF.png",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.92%",
     "time": 196,
     "timeDay": 112,
@@ -34,7 +34,7 @@
     "timeMonth": 171,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-01-22": 107,
+      "2022-01-22": 96,
       "2021-10-09": 21
     }
   },
