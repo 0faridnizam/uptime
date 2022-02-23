@@ -4,18 +4,20 @@
     "url": "https://www.onolune.me",
     "icon": "https://www.onolune.me/favicon.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 67,
-    "timeWeek": 195,
-    "timeMonth": 257,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 258,
+    "timeDay": 71,
+    "timeWeek": 180,
+    "timeMonth": 251,
+    "timeYear": 258,
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Analytics",
@@ -26,12 +28,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.82%",
     "time": 177,
     "timeDay": 55,
     "timeWeek": 130,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2022-01-24": 122,
