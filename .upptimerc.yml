@@ -4,8 +4,8 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Personal Website
-    url: https://www.onolune.me
-    icon: https://www.onolune.me/favicon.ico
+    url: https://www.farid.cyou
+    icon: https://www.farid.cyou/favicon.ico
   - name: Analytics
     url: $UPTIME_ANALYTICS
     icon: https://i.imgur.com/NnB33FF.png
@@ -19,9 +19,6 @@ sites:
   - name: Cek Domain
     url: https://cekdomain.js.org
     icon: https://cekdomain.js.org/favicon.ico
-  - name: Bellshade.org
-    url: https://bellshade.org
-    icon: https://bellshade.org/favicon.ico
   
 
 status-website:
