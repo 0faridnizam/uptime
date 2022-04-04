@@ -89,17 +89,19 @@
     "url": "https://cekdomain.js.org",
     "icon": "https://cekdomain.js.org/favicon.ico",
     "slug": "cek-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 86,
-    "timeWeek": 109,
-    "timeMonth": 174,
-    "timeYear": 158,
-    "dailyMinutesDown": {}
+    "time": 219,
+    "timeDay": 5144,
+    "timeWeek": 1370,
+    "timeMonth": 487,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2022-04-04": 0
+    }
   }
 ]
