@@ -19,6 +19,9 @@ sites:
   - name: Cek Domain
     url: https://cekdomain.js.org
     icon: https://cekdomain.js.org/favicon.ico
+  - name: FLY DB PostgreeSQL
+    check: "tcp-ping"
+    url: $UPTIME_FLY_POSTGRESQL
   
 
 status-website:
