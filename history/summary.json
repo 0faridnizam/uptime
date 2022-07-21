@@ -80,7 +80,7 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.96%",
     "time": 112,
     "timeDay": 89,
@@ -101,12 +101,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 268,
     "timeDay": 340,
     "timeWeek": 158,
-    "timeMonth": 374,
+    "timeMonth": 174,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2022-06-30": 59,
@@ -120,9 +120,9 @@
     "url": "$UPTIME_FLY_POSTGRESQL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fly-db-postgree-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,6 +131,8 @@
     "timeWeek": 15,
     "timeMonth": 15,
     "timeYear": 15,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   }
 ]
