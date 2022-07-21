@@ -120,19 +120,19 @@
     "url": "$UPTIME_FLY_POSTGRESQL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fly-db-postgree-sql",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 15,
-    "timeDay": 35,
-    "timeWeek": 15,
-    "timeMonth": 15,
-    "timeYear": 15,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 33,
+    "timeDay": 100,
+    "timeWeek": 33,
+    "timeMonth": 33,
+    "timeYear": 33,
     "dailyMinutesDown": {
-      "2022-07-21": 0
+      "2022-07-21": 3
     }
   }
 ]
